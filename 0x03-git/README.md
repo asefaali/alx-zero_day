@@ -1,1 +1,1 @@
-My first readme
+school of informatics 
